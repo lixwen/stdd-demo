@@ -1,6 +1,6 @@
 ## 1. Data Models
 
-- [ ] 1.1 Create `src/models.py` with Pydantic models: TodoCreate, TodoUpdate, TodoResponse
+- [x] 1.1 Create `src/models.py` with Pydantic models: TodoCreate, TodoUpdate, TodoResponse
 
 ## 2. Storage Layer
 
