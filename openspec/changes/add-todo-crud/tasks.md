@@ -4,7 +4,7 @@
 
 ## 2. Storage Layer
 
-- [ ] 2.1 Create `src/store.py` with TodoStore class (in-memory dict, auto-increment ID)
+- [x] 2.1 Create `src/store.py` with TodoStore class (in-memory dict, auto-increment ID)
 
 ## 3. API Routes
 
